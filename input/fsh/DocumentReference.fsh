@@ -37,6 +37,8 @@ Description: "A profile stating the rules, when exchanging a CDA Appointment (AP
 * context.practiceSetting.coding.code 1.. MS
 * context.practiceSetting.coding.system 1.. MS
 * context.practiceSetting.coding.system from $FacilityType (required)
+* extension contains medcom-xds-homecommunityid-extension named homeCommunityid 1..1 MS SU 
+
 
 
 /* Invariant: apd-dk-rule-1

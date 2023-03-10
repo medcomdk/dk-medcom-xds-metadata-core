@@ -10,3 +10,4 @@ Alias: $FormatCode = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-apd
 Alias: $EventCode = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/apd-dk-ihe-eventcodelist-vs
 Alias: $FacilityType = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/apd-dk-ihe-eventcodelist-vs
 Alias: $PracticeSetting = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-apd-PracticeSettingCode-VS
+Alias: $HomeCommunityID = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-apd-homeCommunityId-VS
