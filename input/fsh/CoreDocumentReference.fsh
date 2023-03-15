@@ -5,7 +5,7 @@ Description: "A profile stating the rules, when exchanging a CDA document."
 * status MS
 // TypeCode
 * type 1.. MS
-* type ^short = "TypeCode for..."
+//* type ^short = "TypeCode for..."
 * type.coding.system 1.. MS
 * type.coding.system from $TypeCode (required) 
 * type.coding.code 1.. MS
