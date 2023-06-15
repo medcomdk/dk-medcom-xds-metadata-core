@@ -7,7 +7,7 @@ Description: "A profile stating the rules, when exchanging a CDA document."
 * type 1.. MS
 //* type ^short = "TypeCode for..."
 * type.coding.system 1.. MS
-* type.coding.system from $TypeCode (required) 
+* type.coding.system from $TypeCode //(required) 
 * type.coding.code 1.. MS
 // ClassCode
 * category 1..1 MS
@@ -19,11 +19,11 @@ Description: "A profile stating the rules, when exchanging a CDA document."
 //* category ^definition = "HVIS DEFINITION ØNSKES, er dette syntaksen."
 * content MS
 * content.attachment.contentType 1.. MS
-* content.attachment.contentType from $ContentType (required)
+* content.attachment.contentType from $ContentType // (required)
 * content.attachment.language 1.. MS
-* content.attachment.language from $Language (required)
+* content.attachment.language from $Language //(required)
 * content.format 1.. MS
-* content.format from $FormatCode (required)
+* content.format from $FormatCode //(required)
 * context 1.. MS
 * context.event 1..1 MS 
 * context.event.coding.code 1.. MS
