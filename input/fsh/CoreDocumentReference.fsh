@@ -36,10 +36,10 @@ Description: "A profile stating the rules, when exchanging a CDA document."
 * context.practiceSetting 1.. MS
 * context.practiceSetting.coding.code 1.. MS
 * context.practiceSetting.coding.system 1.. MS
-* context.practiceSetting.coding.system from $FacilityType (required)
+* context.practiceSetting.coding.system from $PracticeSetting (required)
 * extension contains medcom-xds-homecommunityid-extension named homeCommunityid 1..1 MS SU
 
-
+[PracticeSetting](https://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata/ValueSet-MedCom-ihe-core-PracticeSettingCode-VS.html)
 
 /* Invariant: apd-dk-rule-1
 Description: "Where formatCode is 'urn:ad:dk:medcom:appointmentsummary:full', the eventCode must be 'ALAL01' (hjertesygdomme)"

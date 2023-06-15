@@ -12,7 +12,7 @@ Alias: $TypeCode = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-core-
 Alias: $ContentType = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-mimeType-VS
 
 //Alias: $Language = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-apd-languagecode-VS
-Alias: $Language = http://medcomfhir.dk/ig/xdsmetadata/ValueCet/MedCom-ihe-core-languagecode-VS
+Alias: $Language = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-core-languagecode-VS
 
 //Alias: $FormatCode = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-apd-formatcode-VS
 Alias: $FormatCode = http://medcomfhir.dk/ig/xdsmetadata/ValueSet/MedCom-ihe-core-formatcode-VS
