@@ -26,7 +26,7 @@ publisher:
 #
 # dependencies:
 dependencies:
-  medcom.fhir.dk.xds.metadata: dev
+  medcom.fhir.dk.xds.metadata: current
 #   hl7.fhir.us.core: 3.1.0
 #   hl7.fhir.us.mcode:
 #     id: mcode
