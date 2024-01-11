@@ -17,6 +17,7 @@ Description: "A profile stating the rules, when exchanging a CDA document."
 * category.coding.system 1.. MS
 //* category.coding.display 1.. MS - 
 * category ^short = "The class of the document"
+* subject 1..1 MS
 * content MS
 * content.attachment.contentType 1.. MS
 * content.attachment.contentType from $ContentType
